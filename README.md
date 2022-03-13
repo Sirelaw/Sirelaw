@@ -35,6 +35,9 @@
 <br />
 
 ---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity--
 1. ❌ Closed PR [#5](https://github.com/codeSTACKr/nft-landing-page/pull/5) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
@@ -51,3 +54,28 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirelaw&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 
+</details>
+
+[website]: https://codeSTACKr.com
+[course]: http://vsCodeHero.com
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+<!---
+- 👋 Hi, I’m Olawale Ipadeola also known as Sirelaw and oipadeol in the 42 community.
+- 👀 I’m interested in web development and Data science.
+-    I have a Bachelor's degree in Electrical engineering and I have 4 years experience working as one.
+- 🌱 I’m currently learning C but I already have solid understanding of Python.
+- 💞️ I’m looking to collaborate on projects that require a junior developer in any language.
+- 📫 You can reach me via ipadeolaolawale@gmail.com
+
+<!---
+Sirelaw/Sirelaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
