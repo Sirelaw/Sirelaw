@@ -35,9 +35,6 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity--
 1. ❌ Closed PR [#5](https://github.com/codeSTACKr/nft-landing-page/pull/5) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
@@ -53,7 +50,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirelaw&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 
-</details>
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
