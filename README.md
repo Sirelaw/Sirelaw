@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Olawale Ipadeola also known as Sirelaw.
+- 👋 Hi, I’m Olawale Ipadeola also known as Sirelaw and oipadeol in the 42 community.
 - 👀 I’m interested in web development and Data science.
 -    I have a Bachelor's degree in Electrical engineering and I have 4 years experience working as one.
 - 🌱 I’m currently learning C but I already have solid understanding of Python.
