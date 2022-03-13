@@ -49,7 +49,6 @@
 
 <!---[![Olawale's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirelaw&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br>--->
 <!---[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&leet_logo=hide&login=oipadeol)](https://profile.intra.42.fr/users/oipadeol)--->
-
 ![Metrics](https://github.com/sirelaw/sirelaw/blob/main/github-metrics.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirelaw&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br>
