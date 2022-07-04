@@ -4,7 +4,7 @@
 
 ## I'm an Electrical Engineer and Developer!!
 
-- 👀 I’m interested in web development and Data science.
+- 👀 I’m interested in Embedded systems and Data science.
 -    I have a Bachelor's degree in Electrical engineering and I have 4 years experience working as one.
 - 🌱 I’m currently working with C and C++ but I already have solid understanding of Python.
 - 💞️ I’m looking to collaborate on projects that require a junior developer in any language.
