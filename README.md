@@ -2,7 +2,7 @@
 
 
 
-## I'm an Electrical Engineer and Developer!!
+## I'm an Electrical Engineer and Software Developer!!
 
 - 👀 I’m interested in Embedded systems and Data science.
 -    I have a Bachelor's degree in Electrical engineering and I have 4 years experience working as one.
