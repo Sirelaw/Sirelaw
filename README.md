@@ -37,6 +37,8 @@
 <br />
 
 ---
+
+![Metrics](https://metrics.lecoq.io/Sirelaw?template=classic&base.indepth=false&base.hireable=false&config.timezone=Europe%2FBerlin)
   
 <!--START_SECTION:activity--
 1. ❌ Closed PR [#5](https://github.com/codeSTACKr/nft-landing-page/pull/5) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
@@ -58,6 +60,8 @@
 Sirelaw/Sirelaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
 
 ![Profile views](https://gpvc.arturio.dev/Sirelaw)
 
