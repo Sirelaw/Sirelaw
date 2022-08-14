@@ -38,7 +38,7 @@
 
 ---
 
-![Metrics](https://metrics.lecoq.io/Sirelaw?template=classic&base.indepth=false&base.hireable=false&config.timezone=Europe%2FBerlin)
+![Metrics](https://metrics.lecoq.io/sirelaw?template=classic&base.indepth=false&base.hireable=false&config.timezone=Europe%2FBerlin)
   
 <!--START_SECTION:activity--
 1. ❌ Closed PR [#5](https://github.com/codeSTACKr/nft-landing-page/pull/5) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
