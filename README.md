@@ -44,7 +44,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirelaw&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 
-![linkein](https://github.com/Sirelaw/Sirelaw/blob/main/img/Top%205%25%20in%20Linkedin%20C%20assessment%20test.jpg)<br>
+## Top 5% in Linkedin C assessment
+![linkein](https://github.com/Sirelaw/Sirelaw/blob/main/img/linkedin_top.jpeg)<br>
 
 [linkedin]: https://linkedin.com/in/sirelaw#gh-dark-mode-only
 
