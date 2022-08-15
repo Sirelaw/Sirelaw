@@ -40,8 +40,6 @@
 
 ![Metrics](https://metrics.lecoq.io/sirelaw?template=classic&base.indepth=false&base.hireable=false&config.timezone=Europe%2FBerlin)
 
-![Metrics](https://github.com/sirelaw/sirelaw/blob/main/github-metrics.svg)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirelaw&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 ## Top 5% in Linkedin C assessment
