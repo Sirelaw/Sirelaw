@@ -39,20 +39,12 @@
 ---
 
 ![Metrics](https://metrics.lecoq.io/sirelaw?template=classic&base.indepth=false&base.hireable=false&config.timezone=Europe%2FBerlin)
-  
-<!--START_SECTION:activity--
-1. ❌ Closed PR [#5](https://github.com/codeSTACKr/nft-landing-page/pull/5) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
-2. 💪 Opened PR [#1580](https://github.com/anuraghazra/github-readme-stats/pull/1580) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-3. 🗣 Commented on [#1572](https://github.com/anuraghazra/github-readme-stats/issues/1572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-4. 🎉 Merged PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
-5. 💪 Opened PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
-<!--END_SECTION:activity-->
 
-<!---[![Olawale's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirelaw&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br>--->
-<!---[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&leet_logo=hide&login=oipadeol)](https://profile.intra.42.fr/users/oipadeol)--->
 ![Metrics](https://github.com/sirelaw/sirelaw/blob/main/github-metrics.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirelaw&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br>
+
+![linkein](https://github.com/Sirelaw/Sirelaw/blob/main/img/Top%205%25%20in%20Linkedin%20C%20assessment%20test.jpg)<br>
 
 [linkedin]: https://linkedin.com/in/sirelaw#gh-dark-mode-only
 
