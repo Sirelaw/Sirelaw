@@ -4,7 +4,6 @@
 
 ## I'm an Electrical Engineer and Software Developer!!
 
-- 👀 I’m interested in Embedded systems and Data science.
 - 🔭  I’m currently working on building projects in C and C++.
 - 🌱 Currently I'm learning embedded systems, systems programming, algorithms, network communication , and more.
 - 👯 I’m looking to collaborate on projects in C and C++ applied in embedded systems and optimizing algorithms in data science.
