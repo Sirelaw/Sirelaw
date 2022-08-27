@@ -5,9 +5,9 @@
 ## I'm an Electrical Engineer and Software Developer!!
 
 - 👀 I’m interested in Embedded systems and Data science.
--    I have a Bachelor's degree in Electrical engineering and I have 4 years experience working as one.
-- 🌱 I’m currently working with C and C++ but I already have solid understanding of Python.
-- 💞️ I’m looking to collaborate on projects that require a junior developer in any language.
+-    I’m currently working on building projects in C and C++.
+- 🌱 Currently I'm learning embedded systems, systems programming, algorithms, network communication , and more.
+- 💞️ Tell me how I can help with your project.
 - 📫 You can reach me via ipadeolaolawale@gmail.com
 
 ### Connect with me:
@@ -42,8 +42,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirelaw&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 
-## Top 5% in Linkedin C assessment
-![linkein](https://github.com/Sirelaw/Sirelaw/blob/main/img/linkedin_top.jpeg)<br>
 
 [linkedin]: https://linkedin.com/in/sirelaw#gh-dark-mode-only
 
