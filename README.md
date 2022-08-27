@@ -5,9 +5,10 @@
 ## I'm an Electrical Engineer and Software Developer!!
 
 - 👀 I’m interested in Embedded systems and Data science.
--    I’m currently working on building projects in C and C++.
+- 🔭  I’m currently working on building projects in C and C++.
 - 🌱 Currently I'm learning embedded systems, systems programming, algorithms, network communication , and more.
-- 💞️ Tell me how I can help with your project.
+- 👯 I’m looking to collaborate on projects in C and C++ applied in embedded systems and optimizing algorithms in data science.
+- 💬 Ask me about how I can help with your project.
 - 📫 You can reach me via ipadeolaolawale@gmail.com
 
 ### Connect with me:
